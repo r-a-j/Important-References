@@ -10,4 +10,6 @@ Here I store my references for help related to code
 - For github badges [https://shields.io/](https://shields.io/)
 <!--END_SECTION:activity-->
 
+- [Markdown syntax](https://www.markdownguide.org/basic-syntax/)
+
 </details>
