@@ -5,4 +5,12 @@ Here I store my references for help related to code
 
 ### Github
 
-https://shields.io/
+<details>
+  <summary>:zap: Github </summary>
+  
+<!--START_SECTION:activity-->
+Shield.io for github badges [](https://shields.io/)
+
+<!--END_SECTION:activity-->
+
+</details>
