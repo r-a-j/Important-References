@@ -14,16 +14,8 @@ Here I store my references for help related to code
 
 </details>
 
-<details>
-  <summary>:zap: CSS Frameworks </summary>
- 
-<!--START_SECTION:activity-->
-
+- ### CSS Frameworks
 [![Tailwind CSS](https://github.com/r-a-j/Important-References/blob/main/assets/tailwind-css.svg)](https://tailwindcss.com/)
-
-<!--END_SECTION:activity-->
-
-</details>
 
 - ### Markdown syntax guide
 [![Markdown syntax](https://github.com/r-a-j/Important-References/blob/main/assets/markdown-mark-white.svg)](https://www.markdownguide.org/basic-syntax/)
