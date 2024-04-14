@@ -7,23 +7,27 @@ Here I store my references for help related to code
   <summary>:zap: Github </summary>
  
 <!--START_SECTION:activity-->
-
 - [Github Badges](https://shields.io/badges)
-
 <!--END_SECTION:activity-->
 
 </details>
 
-- ### CSS Frameworks
-[![Tailwind CSS](https://github.com/r-a-j/Important-References/blob/main/assets/tailwind-css.svg)](https://tailwindcss.com/)
+<details>
+  <summary>:zap: CSS Frameworks </summary>
+ 
+<!--START_SECTION:activity-->
+- [Tailwind CSS](https://tailwindcss.com/docs/installation)
+<!--END_SECTION:activity-->
+
+</details>
+
 
 - ### Markdown syntax guide
-[![Markdown syntax](https://github.com/r-a-j/Important-References/blob/main/assets/markdown-mark-white.svg)](https://www.markdownguide.org/basic-syntax/)
+[![Markdown syntax](https://github.com/r-a-j/Important-References/blob/main/assets/markdown-mark-white.svg)](https://www.markdownguide.org/basic-syntax)
 
 - ### coding project templates
 [![cookiecutter](https://github.com/r-a-j/Important-References/blob/main/assets/cookiecutter-logo.svg)](https://www.cookiecutter.io/templates)
 
 - ### Logos for everything
-[![World Vector Logo](https://github.com/r-a-j/Important-References/blob/main/assets/world-vector-logo.svg)](https://worldvectorlogo.com/)
-
+[![World Vector Logo](https://github.com/r-a-j/Important-References/blob/main/assets/world-vector-logo.svg)](https://worldvectorlogo.com)
 
