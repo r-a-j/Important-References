@@ -13,3 +13,5 @@ Here I store my references for help related to code
 </details>
 
 - [Markdown syntax](https://www.markdownguide.org/basic-syntax/)
+
+[![cookiecutter](https://assets.website-files.com/6189495a8f80ad3e20ebcf60/618e86f4d53488d751cb2fc9_logo%20(29).svg)](https://www.cookiecutter.io/templates)
