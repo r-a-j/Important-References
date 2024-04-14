@@ -7,7 +7,7 @@ Here I store my references for help related to code
   <summary>:zap: Github </summary>
  
 <!--START_SECTION:activity-->
-- [Github Badges](https://shields.io/)
+- [Github Badges](https://shields.io/badges)
 <!--END_SECTION:activity-->
 
 </details>
