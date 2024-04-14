@@ -17,3 +17,6 @@ Here I store my references for help related to code
 
 - ### coding project templates
 [![cookiecutter](https://github.com/r-a-j/Important-References/blob/main/assets/cookiecutter-logo.svg)](https://www.cookiecutter.io/templates)
+
+- ### Logos for everything
+[![World Vector Logo](https://github.com/r-a-j/Important-References/blob/main/assets/world-vector-logo.svg)](https://worldvectorlogo.com/)
