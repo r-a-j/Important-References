@@ -35,4 +35,4 @@ Here I store my references for help related to code
 [![UI Verse Logo](https://uiverse.io/build/_assets/logo-png-XGWSYHKJ.png)](https://uiverse.io/elements) 
 
 - ### Github profile readme generator
-[![Readme generator logo](https://rahuldkjain.github.io/gh-profile-readme-generator/static/mdg-040f54e2f6c858e0a3dcf568c3f2b6f1.png)](https://rahuldkjain.github.io/gh-profile-readme-generator/)
+[![Readme generator logo](https://github.com/r-a-j/Important-References/blob/main/assets/github-profile-readme-generator-logo.png)](https://rahuldkjain.github.io/gh-profile-readme-generator/)
