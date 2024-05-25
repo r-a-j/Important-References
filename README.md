@@ -8,6 +8,7 @@ Here I store my references for help related to code
  
 <!--START_SECTION:activity-->
 - [Github Badges](https://shields.io/badges)
+- [Github Repository, User & Language card's](https://kasroudra-stats-card.onrender.com/)
 <!--END_SECTION:activity-->
 
 </details>
