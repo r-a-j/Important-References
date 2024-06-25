@@ -41,3 +41,5 @@ Here I store my references for help related to code
 - [The world's largest collection of open source computer vision datasets and APIs.](https://universe.roboflow.com/)
 
 - [Maintain code quality - Automatic analysis](https://app.codacy.com/)
+
+- [Create waves in footer](https://getwaves.io/)
