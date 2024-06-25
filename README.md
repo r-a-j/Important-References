@@ -43,3 +43,9 @@ Here I store my references for help related to code
 - [Maintain code quality - Automatic analysis](https://app.codacy.com/)
 
 - [Create waves in footer](https://getwaves.io/)
+
+- [Generate unique SVG design assets](https://haikei.app/)
+
+- https://www.shapedivider.app/
+
+- https://www.blobmaker.app/
