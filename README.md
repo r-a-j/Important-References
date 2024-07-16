@@ -57,5 +57,3 @@ Here I store my references for help related to code
 - https://m3.material.io/get-started
 
 - https://www.beercss.com/
-
-- 
