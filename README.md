@@ -57,3 +57,15 @@ Here I store my references for help related to code
 - https://m3.material.io/get-started
 
 - https://www.beercss.com/
+
+<details>
+  <summary>:zap: Physics Libraries </summary>
+ 
+<!--START_SECTION:activity-->
+- https://box2d.org/
+- https://google.github.io/liquidfun/
+- https://brm.io/matter-js/
+- https://brm.io/gears/
+<!--END_SECTION:activity-->
+
+</details>
