@@ -17,7 +17,11 @@ Here I store my references for help related to code
   <summary>:zap: CSS Frameworks </summary>
  
 <!--START_SECTION:activity-->
-- [Tailwind CSS](https://tailwindcss.com/docs/installation)
+- https://tailwindcss.com/docs/installation
+- https://bulma.io/
+- https://stackoverflow.design/
+- https://m3.material.io/get-started
+- https://www.beercss.com/
 <!--END_SECTION:activity-->
 
 </details>
@@ -34,22 +38,17 @@ Here I store my references for help related to code
 
 </details>
 
-- ### Markdown syntax guide
-[![Markdown syntax](https://github.com/r-a-j/Important-References/blob/main/assets/markdown-mark-white.svg)](https://www.markdownguide.org/basic-syntax)
+- https://www.markdownguide.org/basic-syntax
 
-- ### coding project templates
-[![cookiecutter](https://github.com/r-a-j/Important-References/blob/main/assets/cookiecutter-logo.svg)](https://www.cookiecutter.io/templates)
+- [Project templates](https://www.cookiecutter.io/templates)
 
-- ### Logos for everything
-[![World Vector Logo](https://github.com/r-a-j/Important-References/blob/main/assets/world-vector-logo.svg)](https://worldvectorlogo.com)
+- [Logos for everything](https://worldvectorlogo.com)
 
-- ### Web elements
-[![UI Verse Logo](https://uiverse.io/build/_assets/logo-png-XGWSYHKJ.png)](https://uiverse.io/elements) 
+- [Web UI's](https://uiverse.io/elements) 
 
-- ### Github profile readme generator
-[![Readme generator logo](https://github.com/r-a-j/Important-References/blob/main/assets/github-profile-readme-generator-logo.png)](https://rahuldkjain.github.io/gh-profile-readme-generator/)
+- [Github profile readme generator](https://rahuldkjain.github.io/gh-profile-readme-generator/)
 
-- [The world's largest collection of open source computer vision datasets and APIs.](https://universe.roboflow.com/)
+- [The world's largest collection of open source computer vision datasets and APIs](https://universe.roboflow.com/)
 
 - [Maintain code quality - Automatic analysis](https://app.codacy.com/)
 
@@ -60,11 +59,3 @@ Here I store my references for help related to code
 - https://www.shapedivider.app/
 
 - https://www.blobmaker.app/
-
-- https://stackoverflow.design/
-
-- https://bulma.io/
-
-- https://m3.material.io/get-started
-
-- https://www.beercss.com/
