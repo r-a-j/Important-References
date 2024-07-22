@@ -9,6 +9,7 @@ Here I store my references for help related to code
 <!--START_SECTION:activity-->
 - [Github Badges](https://shields.io/badges)
 - [Github Repository, User & Language card's](https://kasroudra-stats-card.onrender.com/)
+- [Github profile readme generator](https://rahuldkjain.github.io/gh-profile-readme-generator/)
 <!--END_SECTION:activity-->
 
 </details>
@@ -45,8 +46,6 @@ Here I store my references for help related to code
 - [Logos for everything](https://worldvectorlogo.com)
 
 - [Web UI's](https://uiverse.io/elements) 
-
-- [Github profile readme generator](https://rahuldkjain.github.io/gh-profile-readme-generator/)
 
 - [The world's largest collection of open source computer vision datasets and APIs](https://universe.roboflow.com/)
 
