@@ -61,4 +61,6 @@ Here I store my references for help related to code
 
 - https://undraw.co/illustrations
   
-- https://ui.aceternity.com/  (Frontend UI library)
+- https://ui.aceternity.com/ (Frontend UI library)
+
+- https://ui.shadcn.com/ (Frontend UI library)
