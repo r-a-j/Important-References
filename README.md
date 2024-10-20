@@ -60,3 +60,5 @@ Here I store my references for help related to code
 - https://www.blobmaker.app/
 
 - https://undraw.co/illustrations
+  
+- https://ui.aceternity.com/  (Frontend UI library)
